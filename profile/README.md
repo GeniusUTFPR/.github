@@ -1,5 +1,3 @@
----
-
 <h3 align="center">
         <samp>&gt; Olá, bem-vindos ao
                 <b><a target="_blank" href="https://github.com/MeuMentorUTFPR">MeuMentorUTFPR</a></b>
@@ -15,11 +13,13 @@
 
 ---
 
-Somos estudantes do curso de *Bacharelado em Ciência da Computação* na Univesidade Tecnológica Federal do Paraná (UTFPR) de Campo Mourão - PR. Estamos produzindo uma plataforma web como parte da disciplina de *Projeto Integrador*, sob a orientação do docente Dr. Rodrigo Hübner. Juntos, estamos explorando novos horizontes da tecnologia para oferecer soluções inovadoras. Bem-vindo ao nosso projeto!
+<p align="justify">
+Somos estudantes do curso de <i>Bacharelado em Ciência da Computação</i> na Univesidade Tecnológica Federal do Paraná (UTFPR) de Campo Mourão - PR. Estamos produzindo uma plataforma web como parte da disciplina de <i>Projeto Integrador</i>, sob a orientação do docente Dr. Rodrigo Hübner. Juntos, estamos explorando novos horizontes da tecnologia para oferecer soluções inovadoras. Bem-vindo ao nosso projeto!
+</p>
 
 ---
 
-#### Tecnologias utilizadas
+#### ✦ Tecnologias utilizadas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -39,22 +39,24 @@ Somos estudantes do curso de *Bacharelado em Ciência da Computação* na Unives
 
 #### ✦ Líder
 
-- Rafaela Tieri <br/>
+🔸 Rafaela Tieri
 
 #### ✦ Scrum Master
 
-- Eduardo Riki <br/>
+🔸 Eduardo Riki
 
 #### ✦ Frontend
 
-- Rafaela Tieri / Walancy dos Santos <br/>
+🔸 Rafaela Tieri <br/>
+🔸 Walancy dos Santos
 
 #### ✦ Backend
  
-- Eduardo Riki / Milena Churata <br/>
+🔸 Eduardo Riki <br/>
+🔸 Milena Churata
 
 #### ✦ UX/UI Designer
 
-- Walancy dos Santos <br/>
+🔸 Walancy dos Santos
 
 ---
