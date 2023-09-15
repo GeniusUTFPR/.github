@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Olá, bem-vindos ao
-                <b><a target="_blank" href="https://github.com/MeuMentorUTFPR">MeuMentorUTFPR</a></b>
+                <b><a target="_blank" href="https://github.com/GeniusUTFPR">Genius</a></b>
         </samp>
 </h3>
 
